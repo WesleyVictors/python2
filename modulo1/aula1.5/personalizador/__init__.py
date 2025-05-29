@@ -1,0 +1,1 @@
+"""Pacote que contém módulos para personalizar textos usando a biblioteca rich."""
